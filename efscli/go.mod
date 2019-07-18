@@ -1,4 +1,4 @@
-module github.com/Nexenta/edgefs/src/efscli
+module github.com/sabbot/module/efscli
 
 go 1.12
 

@@ -35,7 +35,7 @@ import (
 	"github.com/spf13/cobra"
 	"os"
 	"strings"
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
+	"github.com/sabbot/module/efscli/efsutil"
 )
 
 func ClusterList(pat string, count int) error {

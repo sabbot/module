@@ -31,7 +31,7 @@ package system
 import "C"
 
 import (
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
+	"github.com/sabbot/module/efscli/efsutil"
 	"encoding/json"
 	"fmt"
 	"github.com/spf13/cobra"

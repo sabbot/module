@@ -24,7 +24,7 @@
 package export
 
 import (
-	"github.com/Nexenta/src/efscli/efsutil"
+	"github.com/sabbot/module/efscli/efsutil"
 	"bufio"
 	"fmt"
 	"golang.org/x/net/context"

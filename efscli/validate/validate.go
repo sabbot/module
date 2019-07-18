@@ -29,7 +29,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
+	"github.com/sabbot/module/efscli/efsutil"
 
 	"github.com/spf13/cobra"
 )

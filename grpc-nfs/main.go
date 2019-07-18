@@ -36,8 +36,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
-	"github.com/Nexenta/edgefs/src/grpc-nfs/export"
+	"github.com/sabbot/module/efscli/efsutil"
+	"github.com/sabbot/module/grpc-nfs/export"
 
 	"github.com/pborman/getopt"
 	"google.golang.org/grpc"

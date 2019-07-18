@@ -1,4 +1,4 @@
-module github.com/Nexenta/edgefs/src/grpc-nfs
+module github.com/sabbot/module/grpc-nfs
 
 go 1.12
 

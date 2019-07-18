@@ -29,8 +29,8 @@ package object
 import "C"
 
 import (
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
-	"github.com/Nexenta/edgefs/src/efscli/validate"
+	"github.com/sabbot/module/efscli/efsutil"
+	"github.com/sabbot/module/efscli/validate"
 	"fmt"
 	"github.com/spf13/cobra"
 	"os"

@@ -24,7 +24,7 @@
 package device
 
 import (
-	"github.com/Nexenta/edgefs/src/efscli/efsutil"
+	"github.com/sabbot/module/efscli/efsutil"
 	"bufio"
 	"encoding/json"
 	"fmt"
